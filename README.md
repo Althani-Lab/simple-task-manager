@@ -35,5 +35,3 @@ Follow the on-screen menu to add/view/edit/delete tasks.
 ## 🙋‍♂️ About
 
 Built while learning Python through a free resources in online [CS50P](https://cs50.harvard.edu/python/)  
-Guided and mentored by OpenAI’s ChatGPT  
-Code fully understood and modified by me.
